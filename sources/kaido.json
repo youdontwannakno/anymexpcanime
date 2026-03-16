@@ -1,6 +1,9 @@
 {
+  "id": "kaido",
   "name": "Kaido",
   "baseUrl": "https://kaido.to",
+  "language": "en",
+  "type": "anime",
   "search": "/search?keyword=",
   "episodeSelector": ".episode-item",
   "videoSelector": "iframe"
