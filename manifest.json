@@ -1,8 +1,13 @@
 {
   "name": "AnymeX Anime Repo",
   "version": "1.0.0",
+  "author": "youdontwannakno",
   "description": "Anime sources for AnymeX",
   "sources": [
-    { "name": "Kaido", "file": "sources/kaido.json" }
+    {
+      "id": "kaido",
+      "name": "Kaido",
+      "file": "sources/kaido.json"
+    }
   ]
 }
