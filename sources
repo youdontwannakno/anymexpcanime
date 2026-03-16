@@ -1,0 +1,20 @@
+{
+  "name": "AnymeX Anime Repo",
+  "version": "1.0.0",
+  "description": "Community anime sources for AnymeX PC",
+  "sources": [
+    { "name": "GogoAnime", "file": "sources/gogoanime.json" },
+    { "name": "HiAnime", "file": "sources/hianime.json" },
+    { "name": "AnimePahe", "file": "sources/animepahe.json" },
+    { "name": "AniWave", "file": "sources/aniwave.json" },
+    { "name": "Kaido", "file": "sources/kaido.json" },
+    { "name": "KickAssAnime", "file": "sources/kickassanime.json" }
+  ]
+}
+{
+  "name": "Kaido",
+  "baseUrl": "https://kaido.to",
+  "search": "/search?keyword=",
+  "episodeSelector": ".episode-item",
+  "videoSelector": "iframe"
+}
