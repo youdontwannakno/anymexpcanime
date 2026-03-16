@@ -1,7 +1,0 @@
-{
-  "name": "Kaido",
-  "baseUrl": "https://kaido.to",
-  "search": "/search?keyword=",
-  "episodeSelector": ".episode-item",
-  "videoSelector": "iframe"
-}
